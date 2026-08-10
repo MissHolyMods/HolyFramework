@@ -32,7 +32,7 @@ is missing, HolyFramework should be extended first.
 
 See `MODULE_LICENSING.md` for licensing guidance.
 
-[Module repository](https://github.com/MissHolyMods/HolyFramework)
+[Module repository](https://github.com/MissHolyMods/Modules-HolyFramework)
 
 ## Disclaimer
 
