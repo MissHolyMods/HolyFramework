@@ -24,11 +24,7 @@ See `DISTRIBUTION.md`.
 
 ## Module authors
 
-Use only the public headers in `include/HolyFramework/`.
-
-Project modules should not directly include or link CommonLibF4/F4SE game
-access when that operation belongs to HolyFramework. If a reusable capability
-is missing, HolyFramework should be extended first.
+Use only the public headers API in `include/HolyFramework/`.
 
 See `MODULE_LICENSING.md` for licensing guidance.
 
