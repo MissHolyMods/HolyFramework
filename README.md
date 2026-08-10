@@ -36,4 +36,4 @@ See `MODULE_LICENSING.md` for licensing guidance.
 
 The licensing documents in this repository are intended to state the
 permissions granted by the HolyFramework copyright holder(s) and preserve
-third-party notices. They are not legal advice.
+third-party notices.
