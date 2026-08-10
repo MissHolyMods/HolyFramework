@@ -1,0 +1,43 @@
+HOLYFRAMEWORK MODULE EXCEPTION
+Additional permission under GNU GPL version 3 section 7
+
+Copyright (C) 2026 MissHoly
+
+As a special exception, the copyright holder(s) of HolyFramework grant
+additional permission to create, use, reproduce, modify, and distribute an
+Independent Module under terms of the module author's choice when that module
+communicates with HolyFramework solely through the public HolyFramework ABI
+declared in include/HolyFramework.
+
+For purposes of this exception, an "Independent Module" is a separate work
+that:
+
+1. uses only the public HolyFramework SDK/ABI to communicate with
+   HolyFramework, including runtime module loading, callbacks, handles,
+   structures, and function tables exposed by that public ABI;
+2. does not incorporate source or object code from HolyFramework other than
+   public SDK headers that are separately licensed under the MIT License;
+3. does not directly include, link against, copy from, or otherwise derive
+   from CommonLibF4, commonlib-shared, or other GPL-covered third-party code
+   merely by virtue of using HolyFramework; and
+4. is not itself a modified version of HolyFramework.
+
+Under the copyright in HolyFramework code for which the HolyFramework
+copyright holder(s) can grant permission, an Independent Module does not
+become subject to the GNU GPL solely because it uses the public
+HolyFramework ABI, and it may be distributed under a license of its author's
+choice, including a proprietary license.
+
+This exception does not change, replace, waive, or sublicense any license
+obligation imposed by third-party code. In particular, it does not grant any
+additional permission for CommonLibF4, commonlib-shared, Fallout 4, F4SE, or
+any other third-party component. A module that independently uses such code
+must comply with the license terms applicable to that code.
+
+If you modify HolyFramework, you may extend this exception to your modified
+version, modify the exception for code for which you hold the necessary
+copyright, or remove it. You may not use this exception to alter the license
+terms of third-party code for which you do not hold the necessary rights.
+
+This additional permission is provided without warranty and is not legal
+advice.
