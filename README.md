@@ -17,8 +17,6 @@ Requirements:
 
 - `include/HolyFramework/` — public SDK/ABI
 - `src/` — HolyFramework implementation
-- `lib/commonlibf4/` — vendored CommonLibF4 source
-- `lib/commonlibf4/lib/commonlib-shared/` — vendored commonlib-shared source
 
 ## Distribution
 
