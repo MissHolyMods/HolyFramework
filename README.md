@@ -32,6 +32,8 @@ is missing, HolyFramework should be extended first.
 
 See `MODULE_LICENSING.md` for licensing guidance.
 
+[Module repository](https://github.com/MissHolyMods/HolyFramework)
+
 ## Disclaimer
 
 The licensing documents in this repository are intended to state the
