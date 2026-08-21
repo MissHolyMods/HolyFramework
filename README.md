@@ -9,7 +9,7 @@ CommonLibF4/F4SE access.
 
 Requirements:
 
-- CommonLibF4 from https://github.com/libxse/commonlibf4
+- CommonLibF4
 - C++23-capable MSVC or Clang-CL toolchain
 - Latest available xmake version (3.0.0 or newer)
 
