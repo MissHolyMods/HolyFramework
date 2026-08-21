@@ -15,7 +15,6 @@ Requirements:
 
 ## Repository layout
 
-- `include/HolyFramework/` — public SDK/ABI
 - `src/` — HolyFramework implementation
 
 ## Distribution
